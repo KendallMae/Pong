@@ -1,5 +1,5 @@
 # Overview
-This is a Pong game written in Python and it using networking. 
+This is a Pong game written in Python and uses networking. 
 
 # Development Environment
 * Visual Studio Code
@@ -19,5 +19,5 @@ To execute the program:
 # Useful Websites
 * [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
 * [Python Socket Libaries](https://docs.python.org/3.6/library/socket.html)
-* [Difference Between TCP and UDP](https://docs.python.org/3.6/library/socket.html
+* [Difference Between TCP and UDP](https://docs.python.org/3.6/library/socket.html)
 * [YouTube Sockets Tutorial with Python3](https://www.youtube.com/watch?v=Lbfe3-v7yE0&list=PLQVvvaa0QuDdzLB_0JSTTcl8E8jsJLhR5)
